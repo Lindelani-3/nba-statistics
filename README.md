@@ -33,5 +33,3 @@ Lindelani Delisa Dlamini
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-This README provides a concise overview of the project, detailing its objectives, methods, technologies used, and instructions for use. It effectively showcases Lindelani's proficiency in data analysis, particularly in sports data and dimensionality reduction techniques.
