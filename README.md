@@ -6,6 +6,9 @@ This repository contains the Jupyter Notebook and associated data for my project
 
 The project entails a comprehensive analysis of NBA player statistics with an emphasis on dimensionality reduction techniques. The goal is to understand complex player performance data by simplifying its structure while preserving essential information.
 
+![idve 3 preview](https://github.com/Lindelani-3/nba-statistics/assets/99859713/6be4fd49-048b-4783-8b53-53e9da9287e0)
+
+
 ### Key Objectives
 - **Data Preprocessing**: Implementing data cleaning and preparation techniques.
 - **Dimensionality Reduction**: Applying methods like PCA to simplify data analysis.
