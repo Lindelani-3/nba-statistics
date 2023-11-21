@@ -25,12 +25,6 @@ The project entails a comprehensive analysis of NBA player statistics with an em
 
 The datasets include `nba_2022-23_all_stats_with_salary.csv`, `nba_salaries_clean.csv`, and `nba_stats_clean.csv`, providing extensive details on player performances and salaries.
 
-## Usage
-
-To utilize this project:
-1. Ensure Python is installed on your system.
-2. Install the required Python libraries: `pandas` and `matplotlib`.
-3. Clone the repository and open the Jupyter Notebook in your environment.
 
 ## Author
 Lindelani Delisa Dlamini
