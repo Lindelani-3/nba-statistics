@@ -4,16 +4,17 @@ This repository contains the Jupyter Notebook and associated data for my project
 
 ## Project Overview
 
-The project entails a comprehensive analysis of NBA player statistics with an emphasis on dimensionality reduction techniques. The goal is to understand complex player performance data by simplifying its structure while preserving essential information.
+This project aims to explore complex NBA player performance data using advanced dimensionality reduction techniques including t-SNE, MDS (Multidimensional Scaling), and UMAP (Uniform Manifold Approximation and Projection). The goal is to extract and visualize meaningful insights from the data while comparing the effectiveness of these techniques.
 
 ![idve 3 preview](https://github.com/Lindelani-3/nba-statistics/assets/99859713/6be4fd49-048b-4783-8b53-53e9da9287e0)
 
 
+
 ### Key Objectives
-- **Data Preprocessing**: Implementing data cleaning and preparation techniques.
-- **Dimensionality Reduction**: Applying methods like PCA to simplify data analysis.
-- **Statistical Analysis**: Examining player performance metrics to identify key trends.
-- **Data Visualization**: Utilizing visualization tools to represent complex data clearly.
+- **Data Preprocessing**: Implementing robust data cleaning and preparation methods.
+- **Advanced Dimensionality Reduction**: Utilizing t-SNE, MDS, and UMAP for in-depth data analysis.
+- **Comparative Analysis**: Evaluating the results of each technique to understand their specific strengths and applications in sports data.
+- **Visualization**: Creating clear and informative visualizations to represent the findings.
 
 ### Technologies Used
 - Python
